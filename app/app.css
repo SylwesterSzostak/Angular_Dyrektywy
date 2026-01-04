@@ -1,0 +1,17 @@
+.zdjecie {
+border: 2px solid #000;
+display: block;
+margin: auto;
+}
+.przycisk{
+    border: none;
+    color: green;
+    background-color: inherit;
+    padding: 10px;
+}
+.przycisk:hover {
+background-color: blue;
+}
+.tekst_srodek {
+    text-align: center;
+}
